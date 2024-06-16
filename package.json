@@ -2,14 +2,14 @@
   "name": "bytearoo-solana-fm",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://byte-aroo.github.io/SolanaFM",
+  "homepage": "http://byte-aroo.io/SolanaFM",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d out"
+    "deploy": "gh-pages -d .next"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
