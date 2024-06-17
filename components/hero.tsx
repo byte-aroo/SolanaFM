@@ -64,7 +64,7 @@ export default function Hero() {
                 <a className="btn text-white bg-purple-600 hover:bg-purple-700 w-full mb-4 sm:w-auto sm:mb-5" href="https://www.bytearoo.com" target='_blank' rel="noreferrer">Visit Website</a>
               </div>
               <div data-aos="fade-up" data-aos-delay="600">
-                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" onClick={handleClick}>Contact Dveloper</a>
+                <a className="btn text-white bg-gray-700 hover:bg-gray-800 w-full sm:w-auto sm:ml-4" onClick={handleClick}>Contact Developer</a>
               </div>
             </div>
             <div className="font-architects-daughter text-xl text-purple-600 mb-2">Your satisfaction, Our promise</div>
